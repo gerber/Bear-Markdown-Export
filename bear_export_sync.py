@@ -148,7 +148,7 @@ log_file = os.path.join(sync_backup, 'bear_export_sync_log.txt')
 
 # Paths used in image exports:
 bear_image_path = os.path.join(HOME,
-    'Library/Containers/net.shinyfrog.bear/Data/Documents/Application Data/Local Files/Note Images')
+    'Library/Group Containers/9K33E3U3T4.net.shinyfrog.bear/Application Data/Local Files/Note Images')
 assets_path = os.path.join(HOME, export_path, 'BearImages')
 
 sync_ts = '.sync-time.log'
